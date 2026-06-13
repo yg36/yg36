@@ -11,20 +11,7 @@ I build practical AI systems that connect models, retrieval, product UX, and eva
 - AI product engineering with React, Next.js, APIs, dashboards, and automation workflows
 - Computer vision and robotics perception from my IIT Mandi AI and Robotics internship
 
-## Featured Work
-
-- AI Recruiter Agency: local LLM/RAG assistant for resume analysis and candidate insights
-- Advanced RAG Pipeline: multi-query retrieval, hybrid search, reciprocal rank fusion, and reranking
-- AI Multi PDF Chatbot: document Q&A over multiple PDFs
-- Dataset Insight Engine: automated EDA and rule-based insight generation
-- IIT Mandi AI and Robotics: underwater vision and perception workflows
-
-## Tech Stack
-
-Python, JavaScript, TypeScript, React, Next.js, LangChain, FAISS, Ollama, XGBoost, SHAP, Streamlit, MongoDB, Firebase, Git/GitHub.
-
 ## Links
 
-- Portfolio: coming soon
 - LinkedIn: https://www.linkedin.com/in/yg36/
 - Email: yogitag185@gmail.com
