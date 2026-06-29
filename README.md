@@ -15,3 +15,5 @@ I build practical AI systems that connect models, retrieval, product UX, and eva
 
 - LinkedIn: https://www.linkedin.com/in/yg36/
 - Email: yogitag185@gmail.com
+
+<!-- repository-refresh: 2026-06-29 | preserved-order-rank: 070/71 -->
